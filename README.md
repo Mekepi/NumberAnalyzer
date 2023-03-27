@@ -1,0 +1,2 @@
+# numberAnalyzer
+ JavaScript exercise project.
